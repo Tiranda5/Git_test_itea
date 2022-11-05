@@ -1,0 +1,16 @@
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csproj.AssemblyReference.cache
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfoInputs.cache
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfo.cs
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.exe
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.deps.json
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.json
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.dev.json
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.dll
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.pdb
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.dll
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\refint\ConsoleApp5.dll
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.pdb
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.genruntimeconfig.cache
+E:\Career\Programmimg\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ref\ConsoleApp5.dll

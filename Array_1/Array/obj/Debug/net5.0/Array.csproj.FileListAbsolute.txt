@@ -1,0 +1,16 @@
+E:\Career\Programmimg\Projects\Array\Array\bin\Debug\net5.0\Array.exe
+E:\Career\Programmimg\Projects\Array\Array\bin\Debug\net5.0\Array.deps.json
+E:\Career\Programmimg\Projects\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+E:\Career\Programmimg\Projects\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+E:\Career\Programmimg\Projects\Array\Array\bin\Debug\net5.0\Array.dll
+E:\Career\Programmimg\Projects\Array\Array\bin\Debug\net5.0\Array.pdb
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.dll
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\refint\Array.dll
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.pdb
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
+E:\Career\Programmimg\Projects\Array\Array\obj\Debug\net5.0\ref\Array.dll
