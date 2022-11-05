@@ -18,39 +18,23 @@ namespace Methods
             Console.WriteLine(max);
             // Console.WriteLine(maxElement (nums));
 
-            foreach (int el in digits)
-                Console.Write("{0} ", el);
-            Console.WriteLine("");
-            foreach (int el in nums)
+            showArrays<int>(ref digits, ref nums);
+            showArrays<short>(ref digits_2, ref nums_2);
 
-                Console.Write("{0} ", el);
-
-            changeArrys(ref digits, ref nums);
-            Console.WriteLine("");
-            foreach (int el in digits)
-                Console.Write("{0} ", el);
-            Console.WriteLine("");
-            foreach (int el in nums)
-
-                Console.Write("{0} ", el);
-
-            foreach (int el in digits_2)
-                Console.Write("{0} ", el);
-            Console.WriteLine("");
-            foreach (int el in nums_2)
-
-                Console.Write("{0} ", el);
-
-            changeArrysShort(ref digits_2, ref nums_2);
-            Console.WriteLine("");
-            foreach (int el in digits_2)
-                Console.Write("{0} ", el);
-            Console.WriteLine("");
-            foreach (int el in nums_2)
-
-                Console.Write("{0} ", el);
+            summAll(2, 1, 11, 34);
+            summAll(2, 1, 34);
+            summAll(200, 34);
 
         }
+
+        public static void summAll(params int[] nums)
+        {
+            int sum = 0;
+            foreach (int el in nums)
+                sum +=el;
+            Console.WriteLine("Результат: {0}" , sum);
+        }
+
 
         public static void maxElement(int[] numbers, out int max)
         {
@@ -64,9 +48,9 @@ namespace Methods
             }
         }
 
-        public static void changeArrys(ref int[] a, ref int[] b)
+        public static void changeArrys<Type>(ref Type[] a, ref Type[] b)
         {
-            int[] temp = new int[a.Length];
+            Type[] temp = new Type[a.Length];
 
             a.CopyTo(temp, 0);
             Array.Clear(a, 0, a.Length);
@@ -75,16 +59,26 @@ namespace Methods
             temp.CopyTo(b, 0);
         }
 
-        public static void changeArrysShort(ref short[] a, ref short[] b)
-        {
-            short[] temp = new short[a.Length];
 
-            a.CopyTo(temp, 0);
-            Array.Clear(a, 0, a.Length);
-            b.CopyTo(a, 0);
-            Array.Clear(b, 0, b.Length);
-            temp.CopyTo(b, 0);
+        public static void showArrays<T>(ref T[] digits, ref T[] nums)
+        {
+            foreach (T el in digits)
+                Console.Write("{0} ", el);
+            Console.WriteLine("");
+            foreach (T el in nums)
+                Console.Write("{0} ", el);
+            changeArrys(ref digits, ref nums);
+            Console.WriteLine("");
+
+            foreach (T el in digits)
+                Console.Write("{0} ", el);
+            Console.WriteLine("");
+            foreach (T el in nums)
+                Console.Write("{0} ", el);
+
         }
+
+
 
     }
 }
