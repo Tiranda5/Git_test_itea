@@ -1,0 +1,16 @@
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.csproj.AssemblyReference.cache
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.AssemblyInfoInputs.cache
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.AssemblyInfo.cs
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.csproj.CoreCompileInputs.cache
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\bin\Debug\net5.0\OOP_HW_ITP.exe
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\bin\Debug\net5.0\OOP_HW_ITP.deps.json
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\bin\Debug\net5.0\OOP_HW_ITP.runtimeconfig.json
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\bin\Debug\net5.0\OOP_HW_ITP.runtimeconfig.dev.json
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\bin\Debug\net5.0\OOP_HW_ITP.dll
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\bin\Debug\net5.0\OOP_HW_ITP.pdb
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.dll
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\refint\OOP_HW_ITP.dll
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.pdb
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\OOP_HW_ITP.genruntimeconfig.cache
+E:\Career\Programmimg\Projects\Git\Git_test_itea\OOP\OOP_HW_ITP\OOP_HW_ITP\obj\Debug\net5.0\ref\OOP_HW_ITP.dll

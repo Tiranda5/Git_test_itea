@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OOP_HW_ITP/1.0.0": {
+        "runtime": {
+          "OOP_HW_ITP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_HW_ITP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
