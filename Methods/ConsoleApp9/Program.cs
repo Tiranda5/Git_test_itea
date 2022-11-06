@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Methods
 {
@@ -6,7 +7,7 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            int[] digits = { 0, 3, 25, 99, 36, 101, 2 };
+            /*int[] digits = { 0, 3, 25, 99, 36, 101, 2 };
             int[] nums = { 5, 0, 89, 2, 45, 90, 23 };
 
             short[] digits_2 = { 0, 3, 25, 99, 36, 101, 2 };
@@ -74,11 +75,34 @@ namespace Methods
                 Console.Write("{0} ", el);
             Console.WriteLine("");
             foreach (T el in nums)
-                Console.Write("{0} ", el);
+                Console.Write("{0} ", el); 
+            */
+
+
+           
+           /*HM
+            Console.WriteLine("Введи час");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введи швидкість");
+            int c = Convert.ToInt32(Console.ReadLine());
+            int result = way(x, c);
+            print(result);
 
         }
 
 
+        public static void print(int way)
+        {
+            Console.WriteLine("Ти подолав: {0} км", way);
 
+        }
+
+        public static int way(int time, int speed)
+        {
+            int way = speed / time;
+            return way;
+            */
+
+        }
     }
 }
